@@ -52,6 +52,18 @@ navigation:
 pageTitle:
   labelDivider: '. '
 
+pdf:
+  fileDir: '/_assets/downloads'
+  fileName: 'quire-starter-pdf-test'
+  outputPages: false # setting to true will output pdfs for EVERY page in the project
+  outputPagesCoverPage: true
+  outputPagesCoverPageCitation: chicago
+  outputPagesLink:
+    footer: true
+    footerLabel: 'Download the PDF'
+    header: true
+    headerLabel: 'PDF'
+
 ref:
   sequenceTransition: 30
 

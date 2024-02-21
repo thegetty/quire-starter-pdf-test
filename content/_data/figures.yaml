@@ -1,116 +1,108 @@
 figure_list:
 
-  - id: "lange"
-    src: figures/lange.jpg
-    caption: "*Dorothea Lange, Resettlement Administration photographer, in California*, 1936."
-    credit: "Library of Congress Prints and Photographs Division"
-
-  - id: "evans"
-    src: figures/evans.jpg
-    caption: "*Walker Evans, profile, hand up to face*, 1937."
-    credit: "Library of Congress Prints and Photographs Division"
-
-  - id: "fig-1"
-    label: "Figure 1"
-    src: figures/evans-legionnaire.jpg
-    caption: "Walker Evans. *[American Legionnaire]*, 1935."
-    credit: "The J. Paul Getty Museum, Los Angeles"
-
-  - id: "fig-2"
-    label: "Figure 2"
-    src: figures/evans-sons.jpg
-    caption: "Walker Evans. *Sons of the American Legion, Bethlehem, Pennsylvania*, 1935."
-    credit: "The J. Paul Getty Museum, Los Angeles"
-
-  - id: "fig-3"
-    label: "Figure 3"
-    src: figures/evans-graveyard.jpg
-    caption: "Walker Evans. *Graveyard, Houses and Steel Mill, Bethlehem, Pennsylvania*, 1935; printed later."
-    credit: "The J. Paul Getty Museum, Los Angeles"
-
-  - id: "fig-4"
-    label: "Figure 4"
-    src: figures/evans-hymns.jpg
-    caption: "Walker Evans. *Alabama Tenant Farmer Family Singing Hymns / The Tengle Family, Hale County, Alabama*, 1936."
-    credit: "The J. Paul Getty Museum, Los Angeles"
-
-  - id: "fig-5"
-    label: "Figure 5"
-    src: figures/evans-burroughs.jpg
-    caption: "Walker Evans. *Floyd and Lucille Burroughs, Hale County, Alabama*, 1936."
-    credit: "The J. Paul Getty Museum, Los Angeles"
-
-  - id: "lange-house"
-    src: figures/lange-house.jpg
-    caption: "Dorothea Lange. *Abandoned Dust Bowl Home*, about 1935–1940."
-    credit: The J. Paul Getty Museum, Los Angeles
-
-  - id: "vid-1"
-    poster: figures/evans-video-still.jpg
-    media_id: BpGN0UUtqqU
-    media_type: youtube
-    label: "Video 1"
-    caption: "A selection of Walker Evans photos from the across the United States of America, 1930s."
-    credit: The J. Paul Getty Museum, Los Angeles
-
-  - id: "table-1"
-    src: "tables/evans-works.html"
-    media_type: table
-
-  - id: "audio-1"
-    media_id: 336879231
-    media_type: soundcloud
-    label: "Audio 1"
-    caption: "Echoing the work of Lange and Evans, contemporary photographer Chris Killip documents social landscapes and is known for a series of powerful images of struggling industrial communities in North East England."
-    credit: "© J. Paul Getty Trust"
-
-  - id: "cat-1"
-    src: figures/lange-mother-a.jpg
-    caption: "Dorothea Lange, *Human Erosion in California / Migrant Mother*, 1936."
-    credit: The J. Paul Getty Museum, Los Angeles
-    download: true
+  - id: cat-1
+    label: "Cat. 1"
+    src: figures/c8bc1475-6047-4a69-8874-a781c10a4f3c_2682.jpg
     zoom: true
-
-  - id: "mother-variants"
-    label: "Figure 1.1"
-    caption: "Alternate versions of Dorothea Lange’s *Migrant Mother*, 1936."
-    credit: "Library of Congress Prints and Photographs Division"
-    annotations:
-      - input: radio
-        items:
-        - src: figures/lange-mother-b.jpg
-          label: "Variant #1"
-        - src: figures/lange-mother-c.jpg
-          label: "Variant #2"
-
-  - id: "mother-annotations"
-    src: "figures/lange-layers/base.jpg"
+    caption: ""
+    credit: ""
+  
+  - id: cat-2
+    label: "Cat. 2"
+    src: figures/a2f23bd0-c06c-4888-a981-3b22b2acf7ad_2877.jpg
     zoom: true
-    label: "Figure 1.2"
-    caption: "This version of the print from the Library of Congress Prints and Photographs Division is mounted on paper board and includes an original FSA label. Note too the thumb seen in the lower right corner. It is also visible in the Getty‘s print, but Lange’s negative was later retouched to remove the thumb and in later prints, it is only a ghostly shadow."
-    annotations:
-      - input: checkbox
-        items:
-          - src: "figures/lange-layers/original-label.png"
-            selected: true
-          - src: "figures/lange-layers/additional-label.png"
-          - src: "figures/lange-layers/scratches.png"
-          - src: "figures/lange-layers/thumb.png"
-            selected: true
+    caption: ""
+    credit: ""
 
-  - id: "cat-2"
-    src: figures/evans-fields-family-a.jpg
-    caption: "Walker Evans, *Bud Fields with His Wife Ivy, and His Daughter Ellen, Hale County, Alabama*, 1936."
-    credit: The J. Paul Getty Museum, Los Angeles
-    download: true
+  - id: cat-3
+    label: "Cat. 3"
+    src: figures/ac34eae4-f6d8-47bc-ae04-376b4d2086cc_3000.jpg
     zoom: true
+    caption: ""
+    credit: ""
 
-  - id: "cat-2-b"
-    src: figures/evans-fields-family-b.jpg
-    caption: "Walker Evans, *Sharecropper's Family, Hale County, Alabama / Bud Fields and His Family, Hale County, Alabama / Bud Woods and His Family*, 1936."
-    credit: The J. Paul Getty Museum, Los Angeles
+  - id: cat-4
+    label: "Cat. 4"
+    src: figures/03b8883c-6601-470a-9dc3-c8116fc668cb_2012.jpg
+    zoom: true
+    caption: ""
+    credit: ""
+  
 
-  - id: "cat-2-c"
-    src: figures/evans-bud-fields.jpg
-    caption: "Walker Evans, * [William Edward (Bud) Fields, A Cotton Sharecropper, Hale County, Alabama]/[Bud Woods, Tenant Farmer]*, 1936."
-    credit: The J. Paul Getty Museum, Los Angeles
+  - id: cat-5
+    label: "Cat. 5"
+    src: figures/6e02ce59-4742-4817-b9b8-b1afb7168085_2962.jpg
+    zoom: true
+    caption: ""
+    credit: ""
+
+  - id: cat-6-a
+    label: "Cat. 6a"
+    src: figures/0f2f591b-9550-4484-8574-6dc4d54ca5dc_2086.jpg
+    zoom: true
+    link: https://www.getty.edu/art/collection/object/108EX1
+    caption: ""
+    credit: ""
+  
+  - id: cat-6-b
+    label: "Cat. 6b"
+    src: figures/bc3f67ee-ff74-4530-a16c-08c948fa6f45_2105.jpg
+    zoom: true
+    link: https://www.getty.edu/art/collection/object/108EWY
+    caption: ""
+    credit: ""
+  
+  - id: cat-6-c
+    label: "Cat. 6c"
+    src: figures/41d2e644-1b87-42aa-999a-5df5a8cb30c6_1998.jpg
+    zoom: true
+    link: https://www.getty.edu/art/collection/object/108EWZ
+    caption: ""
+    credit: ""
+
+  - id: cat-7
+    label: "Cat. 7"
+    src: figures/bba4d249-a768-42e0-ad39-4003e9de6729_1695.jpg
+    zoom: true
+    caption: ""
+    credit: ""
+  
+  - id: cat-8-a
+    label: "Cat. 8a"
+    src: figures/9083af7b-e662-4428-baf7-3ab974f8524c_3000.jpg
+    zoom: true
+    caption: ""
+    credit: ""
+
+  - id: cat-8-b
+    label: "Cat. 8b"
+    src: figures/798ee154-12f1-440f-aa5a-6c4e38d61f75_3000.jpg
+    zoom: true
+    caption: ""
+    credit: ""
+  
+  - id: cat-8-c
+    label: "Cat. 8c"
+    src: figures/1ed0262c-1da2-4ee6-b74a-91a6c12dc1bb_3000.jpg
+    zoom: true
+    caption: ""
+    credit: ""
+  
+  - id: cat-9-a
+    label: "Cat. 9a"
+    src: figures/7a663569-ce80-477a-9e50-82225407ca0f_3000.jpg
+    zoom: true
+    caption: ""
+    credit: "" 
+
+  - id: cat-9-b
+    label: "Cat. 9b"
+    zoom: true
+    caption: ""
+    credit: ""
+    sequences:
+      - id: "figures/muybridge/"
+        behavior:
+          - continuous
+          - sequence
+        viewing_direction: "right-to-left"

@@ -1,10 +1,25 @@
 entries:
+  
+  - id: "Sewell 1877"
+    full: "Sewell, Anna. *Black Beauty*. Norwich, England: Jarrold & Sons, 1877."
 
-  - id: "Evans 1938"
-    full: "Evans, Walker. *American Photographs*. New York: Museum of Modern Art, 1938."
+  - id: "Farley 1941"
+    full: "Farley, Walter. *Black Stallion*. New York: Random House, 1941."
+  
+  - id: "Bagnold 1935"
+    full: "Bagnold, Enid. *National Valvet*. London: Heinemann, 1935."
 
-  - id: "Lynd 1929"
-    full: "Lynd, Robert S., and Helen Merrell Lynd. *Middletown: A Study in American Culture* San Diego: Harcourt Brace Jovanovich, 1929; reprint, Harvest/HBJ, 1956."
+  - id: "Henry 1947"
+    full: "Henry, Marguerite. *Misty of Chincoteague*. New York: Rand McNally, 1947."
 
-  - id: "Agee 1941"
-    full: "Agee, James, and Walker Evans. *Let Us Now Praise Famous Men: Three Tenant Families*. Boston: Houghton Mifflin, 1941."
+  - id: "O’Hara 1941"
+    full: "O’Hara, Mary. *My Friend Flicka.* Philadelphia: J. B. Lippincott Company, 1941."
+  
+  - id: "Evans 1995"
+    full: "Evans, Nicholas. *The Horse Whisperer*. New York: Delacorte Press, 1995."
+  
+  - id: "Morpurgo 1982"
+    full: "Morpurgo, Michael. *War Horse*. London: Kaye & Ward, 1982."
+  
+  - id: "Hillenbrand 1999"
+    full: "Hillenbrand, Laura. *Seabiscuit*. New York: Random House, 1999"
