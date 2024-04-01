@@ -8,6 +8,7 @@ classes:
 order: 600
 outputs:
   - pdf
+pagePDFOutput: false
 toc: false
 ---
 

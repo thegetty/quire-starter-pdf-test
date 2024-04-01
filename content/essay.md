@@ -2,11 +2,7 @@
 title: Essay Page (with Images)
 layout: essay
 order: 30
-outputs:
-  - html
-  - epub
-  - pdf
-  - pdf-pages
+pagePDFOutput: true
 contributor:
   - id: cjane
   - id: lbullion

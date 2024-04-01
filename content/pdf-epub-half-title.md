@@ -6,6 +6,7 @@ order: 2
 outputs:
   - epub
   - pdf
+pagePDFOutput: false
 toc: false
 ---
 

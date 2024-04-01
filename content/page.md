@@ -2,11 +2,7 @@
 title: Page (using data-outputs)
 layout: page
 order: 35
-outputs:
-  - html
-  - epub
-  - pdf
-  - pdf-pages
+pagePDFOutput: true
 ---
 
 This page should have no text content in the PDF as the content is wrapped in a `data-outputs-exclude="pdf"` element. Instead it should show an image of a horse which is wrapped in a `data-outputs-include="pdf"` element.

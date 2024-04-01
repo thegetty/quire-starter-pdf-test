@@ -6,7 +6,7 @@ classes:
 outputs:
   - epub
   - pdf
-  - pdf-pages
+pagePDFOutput: false
 toc: false
 ---
 

@@ -2,11 +2,7 @@
 title: Sub-Section Essay Page
 layout: essay
 order: 210
-outputs:
-  - html
-  - epub
-  - pdf
-  - pdf-pages
+pagePDFOutput: true
 copyright: © 2024 Rose Dunn
 abstract: |
   Tincidunt ornare massa eget egestas purus viverra accumsan in. Lacus luctus accumsan tortor posuere. Lorem ipsum dolor sit amet consectetur adipiscing elit. Neque vitae tempus quam pellentesque nec nam aliquam.
