@@ -3,8 +3,7 @@ object_card:
   - id
   - title
 
-object_filters:
-  - none
+object_filters: false
 
 object_display_order:
   - title
