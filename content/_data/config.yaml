@@ -53,16 +53,27 @@ pageTitle:
   labelDivider: '. '
 
 pdf:
-  fileDir: '/_assets/downloads'
-  fileName: 'quire-starter-pdf-test'
-  outputPages: false # setting to true will output pdfs for EVERY page in the project
-  outputPagesCoverPage: true
-  outputPagesCoverPageCitation: chicago
-  outputPagesLink:
-    footer: true
-    footerLabel: 'Download the PDF'
-    header: true
-    headerLabel: 'PDF'
+  # NB: This is within the output dir
+  outputDir: '/_assets/downloads' 
+  filename: 'publication'
+  pagePDF:
+    accessLinks:
+      # Render a pdf access link in the header
+      - header: true 
+        label: 'PDF'
+      # Render a pdf access link in the footer
+      - footer: true 
+        label: 'Download this page'
+      # - toc: true # Render a pdf access link in the toc
+      #   label: 'PDF ↩'
+    coverPage: true
+    output: true 
+    # websafe: true
+    # cropsAndHashes: true
+  publicationPDF:
+    output: true # Produce the entire publication PDF
+    # websafe: true
+    # cropsAndHashes: true
 
 ref:
   sequenceTransition: 30
