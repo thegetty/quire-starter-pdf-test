@@ -59,15 +59,15 @@ pdf:
   pagePDF:
     accessLinks:
       # Render a pdf access link in the header
-      - header: true 
+      - header: false 
         label: 'PDF'
       # Render a pdf access link in the footer
-      - footer: true 
+      - footer: false
         label: 'Download this page'
-      # - toc: true # Render a pdf access link in the toc
-      #   label: 'PDF ↩'
+      - toc: false # Render a pdf access link in the toc
+        label: 'PDF ↩'
     coverPage: true
-    output: true 
+    output: true
     # websafe: true
     # cropsAndHashes: true
   publicationPDF:
