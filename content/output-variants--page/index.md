@@ -1,7 +1,10 @@
 ---
-title: Contents
+title: Output Variants
+subtitle: Page
 layout: table-of-contents
-order: 10
 presentation: list
-search: false
+order: 300
 ---
+
+
+

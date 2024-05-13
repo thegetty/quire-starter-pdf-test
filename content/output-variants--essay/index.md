@@ -1,7 +1,10 @@
 ---
-title: Contents
+title: Output Variants
+subtitle: Essay
 layout: table-of-contents
-order: 10
 presentation: list
-search: false
+order: 400
 ---
+
+
+
