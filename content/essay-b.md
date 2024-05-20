@@ -4,6 +4,7 @@ subtitle: To Check Cover Page
 layout: essay
 order: 30
 contributor:
+  - id: rdunn
   - id: cjane
   - id: lbullion
 abstract: |
